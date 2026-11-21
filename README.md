@@ -1,6 +1,6 @@
 # gptzip
 
-<span style="color:red">the lean verified code was generated with GPT 6.2 Sol and currently not checked by human</span>.
+__the lean verified code was generated with GPT 6.2 Sol and currently not checked by human__
 
 
 #### Losslessly encode text natively with arithmetic coding and HuggingFace Transformers
