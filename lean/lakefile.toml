@@ -1,0 +1,5 @@
+name = "gptzip"
+defaultTargets = ["Gptzip"]
+
+[[lean_lib]]
+name = "Gptzip"
