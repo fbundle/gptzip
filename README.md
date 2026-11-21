@@ -1,4 +1,8 @@
 # gptzip
+
+<span style="color:red">the lean verified code was generated with GPT 6.2 Sol and currently not checked by human</span>.
+
+
 #### Losslessly encode text natively with arithmetic coding and HuggingFace Transformers
 
 Did you know that every time you download a language model to your computer, you're downloading powerful compression technology as well?
